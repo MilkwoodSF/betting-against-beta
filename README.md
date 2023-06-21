@@ -1,18 +1,8 @@
 # Betting Against Beta
-✨_[Originally forked from WenqiAngieWu's implementation.](https://github.com/WenqiAngieWu/Betting-Against-Beta)_
 
 This codebase is based upon the paper: Frazzini, A. \& Pedersen, L. (2014).
 *Betting against beta*, available online
-[here](https://pages.stern.nyu.edu/~lpederse/papers/BettingAgainstBeta.pdf),
-which was covered by the Hudson & Thames quantitative finance research reading
-group. It seeks to implement the work discussed in the paper.
-
-The Hudson & Thames reading group is a research group for finance professionals
-and enthusiasts to stay abreast of the latest developments in financial machine
-learning through curated reading materials and discussions with experts,
-enthusiasts, and peers.
-
-[Join the reading group here](https://hudsonthames.org/reading-group/).
+[here](https://pages.stern.nyu.edu/~lpederse/papers/BettingAgainstBeta.pdf).  It seeks to implement the work discussed in the paper.
 
 ## Data
 - `Data` folder stores the fetched data and `Data.py`.
