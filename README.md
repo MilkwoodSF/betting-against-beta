@@ -2,7 +2,13 @@
 
 This codebase is based on the paper: Frazzini, A. \& Pedersen, L. (2014).
 *Betting Against Beta*, available online
-[here](https://pages.stern.nyu.edu/~lpederse/papers/BettingAgainstBeta.pdf).  It seeks to implement the work discussed in the paper.
+[here](https://pages.stern.nyu.edu/~lpederse/papers/BettingAgainstBeta.pdf).  It seeks to implement the work discussed in the paper.  Namely:
+
+- 1.  Since constrained investors bid up high-beta assets, high beta is associated with low alpha.
+- 2.  A betting-against-beta (BAB) factor, which is long leveraged lowbeta assets and short high-beta assets, produces significant positive risk-adjusted returns.
+- 3.  When funding constraints tighten, the return of the BAB factor is low.
+- 4.  Increased funding liquidity risk compresses betas toward one.
+- 5.  More constrained investors hold riskier assets. 
 
 ## Data
 - `Data` folder stores the fetched data and `Data.py`.
