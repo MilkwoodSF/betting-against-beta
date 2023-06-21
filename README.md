@@ -1,7 +1,7 @@
 # Betting Against Beta
 
-This codebase is based upon the paper: Frazzini, A. \& Pedersen, L. (2014).
-*Betting against beta*, available online
+This codebase is based on the paper: Frazzini, A. \& Pedersen, L. (2014).
+*Betting Against Beta*, available online
 [here](https://pages.stern.nyu.edu/~lpederse/papers/BettingAgainstBeta.pdf).  It seeks to implement the work discussed in the paper.
 
 ## Data
